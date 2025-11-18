@@ -2,6 +2,8 @@
 ## Я вот такая вот крутая 
 ## Покупайте у меня уроки по программированию или же могу написать код, каждая строчка 5000 тысяч бунов
 ## Всем пока, я пикми!!! 😏😏😏😏😏😏
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a4496f99-1196-4d06-94d7-65f48ac7d569" />
+
 <!--
 **ulapogodina/ulapogodina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
