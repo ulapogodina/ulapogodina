@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## всем привет я Юля, учусь в колледже, я умею писать программы на языках : golang, javascript, phyton, html.
+## Я вот такая вот крутая 
+## Покупайте у меня уроки по программированию или же могу написать код, каждая строчка 5000 тысяч бунов
+## Всем пока, я пикми!!! 😏😏😏😏😏😏
 <!--
 **ulapogodina/ulapogodina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
